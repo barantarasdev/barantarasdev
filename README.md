@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barantarasdev&label=Profile%20views&color=0e75b6&style=flat" alt="barantarasdev" /> </p>
 
-- 🌱 I’m currently learning **I am currently expanding my knowledge in the field of frontend development and embarking on my journey into backend development as well**
+- 🌱 I'm currently expanding my knowledge in the field of frontend development and embarking on my journey into backend development as well
 
 - 👨‍💻 All of my projects are available at [https://barantaras.vercel.app/](https://barantaras.vercel.app/)
 
